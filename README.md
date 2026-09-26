@@ -1,6 +1,7 @@
 # TMDB CLI Tool 🎬
 
 A command-line interface (CLI) application built with Python that interacts with The Movie Database (TMDB) API to fetch and display movie information. This tool allows you to quickly pull the top 5 movies across various categories directly in your terminal. This is a backend practice project on building CLIs (I am very open to your conributions and corrections 😇).
+This repository is a submitted solution to https://roadmap.sh/projects/tmdb-cli
 
 ## Features
 * **Live Data:** Fetches real-time movie data directly from the TMDB API.
